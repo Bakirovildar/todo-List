@@ -1,0 +1,29 @@
+.itemAddForm {
+    margin-top: 25px;
+    height: 35px;
+
+}
+
+.itemAddForm button {
+    width: 100px;
+    height: 100%;
+    margin-left: 15px;
+    border: 1px solid gray;
+    border-radius: 25px;
+}
+
+.itemAddForm button:hover {
+    background: tomato;
+}
+
+.itemAddForm button:active {
+    background: #ff9383;
+    box-shadow: gray;
+}
+
+.itemAddForm input {
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 270px;
+}
